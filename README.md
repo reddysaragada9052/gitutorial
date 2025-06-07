@@ -1,1 +1,1 @@
-# gitutorial
+This is my github tutorial that contains all the commands listed out
